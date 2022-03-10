@@ -1,4 +1,4 @@
-# typescript-document-guide
+# typescript-guide
 Basic typescript element
 
 Declaration
